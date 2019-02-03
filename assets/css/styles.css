@@ -318,19 +318,19 @@ iframe {
 }
 
 @media (min-width: 576px) {
-  #products-banner h1 {
+  #products-banner-text {
     font-size: 3em;
   }
 }
 
 @media (min-width: 768px) {
-  #products-banner h1 {
+  #products-banner-text {
     font-size: 4em;
   }
 }
 
 @media (min-width: 992px) {
-  #products-banner h1 {
+  #products-banner-text {
     font-size: 5em;
     padding-right: 28px;
   }
