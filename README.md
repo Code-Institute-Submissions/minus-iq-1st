@@ -10,7 +10,7 @@ for web development(HTML, CSS, Bootstrap).
 
 ## UX
 UX is created using figma. Idea of this website to be product 
-show website.
+show website. [Link](https://www.figma.com/file/HNlvpUCtkpWQZdBwLaaOct/minusIQ) to prototype.
 It has 5 main sections:
 
 1. Video presentation
