@@ -169,27 +169,24 @@ iframe {
   }
 }
 
-#about-banner h1 {
+#about-heading {
   color: #0c95b9;
 }
 
 @media (min-width: 576px) {
-  #about-banner h1 {
-    color: #0c95b9;
+  #about-heading {
     font-size: 3em;
   }
 }
 
 @media (min-width: 768px) {
-  #about-banner h1 {
-    color: #0c95b9;
+  #about-heading {
     font-size: 4em;
   }
 }
 
 @media (min-width: 992px) {
-  #about-banner h1 {
-    color: #0c95b9;
+  #about-heading {
     font-size: 5em;
     padding-right: 15px;
   }
@@ -249,6 +246,134 @@ iframe {
   font-weight: 700;
   letter-spacing: 0.03em;
   color: #ffffff;
+}
+
+/* Products */
+
+#products-page {
+  padding-top: 20px;
+}
+
+@media (max-width: 991px) {
+  .pill-pic {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .pill-pic {
+    width: 72px;
+    height: auto;
+    margin: -7px;
+  }
+}
+
+#products-banner {
+  background-color: #00aeef;
+  border: 5px solid #00aeef;
+  border-radius: 10px;
+  opacity: 0.7;
+  padding-top: 5px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+@media (min-width: 576px) {
+  #products-banner {
+    background-color: #00aeef;
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    color: #000000;
+  }
+}
+
+@media (min-width: 768px) {
+  #products-banner {
+    background-color: #00aeef;
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 45px;
+    color: #000000;
+  }
+}
+
+@media (min-width: 992px) {
+  #products-banner {
+    background-color: #00aeef;
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    color: #000000;
+  }
+}
+
+@media (min-width: 576px) {
+  #products-banner h1 {
+    font-size: 3em;
+  }
+}
+
+@media (min-width: 768px) {
+  #products-banner h1 {
+    font-size: 4em;
+  }
+}
+
+@media (min-width: 992px) {
+  #products-banner h1 {
+    font-size: 5em;
+    padding-right: 28px;
+  }
+}
+
+.drug-icon {
+  width: 80px;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 576px) {
+  .drug-icon {
+    width: 100px;
+    height: auto;
+    padding-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .drug-icon {
+    width: 110px;
+    height: auto;
+    padding-bottom: 25px;
+  }
+}
+
+@media (min-width: 992px) {
+  .drug-icon {
+    width: 175px;
+    height: auto;
+    padding-bottom: 40px;
+  }
+}
+
+#products {
+  margin-bottom: 16px;
+}
+
+.arrow2 {
+  padding-top: 1em;
+  font-size: 2em;
+  color: #00b2ff;
 }
 
 
