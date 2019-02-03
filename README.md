@@ -1,18 +1,14 @@
+  __  __  _                      _____  ____   
+ |  \/  |(_)                    |_   _|/ __ \  
+ | \  / | _  _ __   _   _  ___    | | | |  | | 
+ | |\/| || || '_ \ | | | |/ __|   | | | |  | | 
+ | |  | || || | | || |_| |\__ \  _| |_| |__| | 
+ |_|  |_||_||_| |_| \__,_||___/ |_____|\___\_\ 
+  
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+MinusIQ website is a first project for a codeinstitute.
+All content is written as joke and this websites purpose
+is to show that I understand how to use fundamental technologies
+for web development(HTML, CSS, Bootstrap). 
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team

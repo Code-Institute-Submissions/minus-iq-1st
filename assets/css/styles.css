@@ -1,4 +1,4 @@
-/***** General *****/
+/*** General ***/
 
 body {
   background-color: #0a0a28;
@@ -15,7 +15,7 @@ section {
     color: #00b2ff;
 }
 
-/***** Header *****/
+/*** Header ***/
 
 header {
   margin-top: 0.5em;
@@ -70,7 +70,7 @@ header {
   }
 }
 
-/* Navigation */
+/*** Navigation ***/
 
 .navbar-dark .navbar-nav .nav-link {
   color: #00aeef;
@@ -96,7 +96,7 @@ header {
   border-color: rgba(0,0,0,0);
 }
 
-/* Video */
+/*** Video ***/
 
 iframe {
   width: 336px;
@@ -122,3 +122,133 @@ iframe {
     margin-bottom: 70px;
   }
 }
+
+/*** About ***/
+
+#about-us {
+  padding-top: 20px;
+}
+
+#about-banner {
+  border: 5px solid #00aeef;
+  border-radius: 10px;
+  opacity: 0.7;
+  padding-top: 5px;
+  margin-bottom: 15px;
+}
+
+@media (min-width: 576px) {
+  #about-banner {
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  #about-banner {
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  #about-banner {
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 15px;
+    padding-bottom: 10px;
+  }
+}
+
+#about-banner h1 {
+  color: #0c95b9;
+}
+
+@media (min-width: 576px) {
+  #about-banner h1 {
+    color: #0c95b9;
+    font-size: 3em;
+  }
+}
+
+@media (min-width: 768px) {
+  #about-banner h1 {
+    color: #0c95b9;
+    font-size: 4em;
+  }
+}
+
+@media (min-width: 992px) {
+  #about-banner h1 {
+    color: #0c95b9;
+    font-size: 5em;
+    padding-right: 15px;
+  }
+}
+
+#brain-pic {
+  width: 459px;
+  height: 546px;
+  margin-top: -61px;
+  margin-left: 52px;
+}
+
+@media (max-width: 991px) {
+  #brain-pic {
+    display: none;
+  }
+}
+
+@media (min-width: 300px) {
+  #about-text {
+    letter-spacing: normal;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+}
+
+@media (min-width: 576px) {
+  #about-text {
+    letter-spacing: normal;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+}
+
+@media (min-width: 768px) {
+  #about-text {
+    letter-spacing: normal;
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  #about-text {
+    letter-spacing: normal;
+    font-size: 23px;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+}
+
+.mb-0 {
+  font-family: 'Ruda';
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+
