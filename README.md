@@ -46,7 +46,7 @@ https://validator.w3.org/
 Website deployed on github pages
 
 ## Credits
-* [Sleepthinker](https://www.sleepthinker.com) Thanks for letting use their content  
+* [Sleepthinker](http://www.sleepthinker.com) Thanks for letting use their content  
 * [Alina Radcenko](https://www.facebook.com/alina.radcenko.7) for providing pictures and logo solution  
 * [Pixabay](https://www.pixabay.com) for free pictures
 
