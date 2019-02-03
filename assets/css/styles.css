@@ -376,4 +376,150 @@ iframe {
   color: #00b2ff;
 }
 
+/* FAQ */
 
+#faq-page {
+  color: #00aeef;
+  padding-top: 20px;
+}
+
+#faq-quote {
+  border: 5px solid #00aeef;
+  border-radius: 10px;
+  opacity: 0.7;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  color: #ffffff;
+  font-size: 1.2em;
+}
+
+@media (min-width: 768px) {
+  #faq-quote {
+    border: 5px solid #00aeef;
+    border-radius: 10px;
+    opacity: 0.7;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 2.2em;
+  }
+}
+
+#faq-heading {
+  font-size: 3rem;
+}
+
+@media (min-width: 768px) {
+  #faq-heading {
+    font-size: 4rem;
+  }
+}
+
+@media (min-width: 992px) {
+  #faq-heading {
+    font-size: 5rem;
+  }
+}
+
+#accordion-1 .card {
+  background-color: inherit;
+  margin-top: 14px;
+}
+
+.faq-text {
+  color: #ffffff;
+}
+
+@media (min-width: 768px) {
+  .faq-text {
+    color: #ffffff;
+    font-size: 1.3em;
+  }
+}
+
+@media (min-width: 992px) {
+  .faq-text {
+    color: #ffffff;
+    font-size: 1.6em;
+  }
+}
+
+.p-red {
+  color: red;
+}
+
+.p-green {
+  color: green;
+}
+
+/* REVIEWS */
+
+#reviews-page {
+  height: 100vh;
+  padding-top: 20px;
+  color: #0c95b9;
+}
+
+@media (min-width: 992px) {
+  #reviews-page {
+    height: 100vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    color: #0c95b9;
+  }
+}
+
+@media (min-width: 992px) {
+  #reviews-page {
+    height: 85vh;
+    padding-top: 20px;
+    color: #0c95b9;
+  }
+}
+
+#reviews-heading {
+  font-size: 3em;
+}
+
+@media (min-width: 768px) {
+  #reviews-heading {
+    font-size: 4rem;
+  }
+}
+
+@media (min-width: 992px) {
+  #reviews-heading {
+    font-size: 5rem;
+  }
+}
+
+.client {
+  background: rgba(0, 174, 239, 0.05);
+  border: 1px solid #2D9CDB;
+}
+
+.client img {
+  width: 70px;
+  height: auto;
+}
+
+@media (min-width: 992px) {
+  .client-img {
+    display: none;
+  }
+}
+
+/* Footer */
+
+.social {
+  text-align: center;
+  padding: 15px 15px;
+}
+
+.social .icon {
+  padding: 11px;
+  font-size: 24px;
+}
+
+footer {
+  width: 100%;
+}
